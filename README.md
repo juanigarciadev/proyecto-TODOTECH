@@ -22,6 +22,7 @@ This is <strong>TODOTECH</strong>, my first project in web development. My idea 
   </div>
   </br>
 <p>══════════════════════════════════════════════════════</p>
+<!-- Wireframs -->
 <h3>Wireframes</h3>
 Desktop view (1920x1080) <a href="https://bit.ly/3PuiSEw">Click here</a></br>
 Laptop view (1024x768) <a href="https://bit.ly/3AVIWo4">Click here</a></br>
@@ -29,7 +30,7 @@ Mobile M view (375x812) <a href="https://bit.ly/3ckiytR">Click here</a></br>
 </br>
 <p>══════════════════════════════════════════════════════</p>
   
-<!-- Instalacion -->
+<!-- Setup -->
 <h3>Setup:</h3>
 Node.js v14.15+ is required to start the procedure.
 
