@@ -24,9 +24,9 @@ This is <strong>TODOTECH</strong>, my first project in web development. My idea 
 <p>══════════════════════════════════════════════════════</p>
 <!-- Wireframes -->
 <h3>Wireframes:</h3>
-Desktop view (1920x1080) <a href="https://bit.ly/3PuiSEw">Click here</a></br>
-Laptop view (1024x768) <a href="https://bit.ly/3AVIWo4">Click here</a></br>
-Mobile M view (375x812) <a href="https://bit.ly/3ckiytR">Click here</a></br>
+Desktop view (1920x1080) <a href="https://bit.ly/3PuiSEw" target="_blank">Click here</a></br>
+Laptop view (1024x768) <a href="https://bit.ly/3AVIWo4" target="_blank">Click here</a></br>
+Mobile M view (375x812) <a href="https://bit.ly/3ckiytR" target="_blank">Click here</a></br>
 </br>
 <p>══════════════════════════════════════════════════════</p>
   
