@@ -22,7 +22,7 @@ This is <strong>TODOTECH</strong>, my first project in web development. My idea 
   </div>
   </br>
 <p>══════════════════════════════════════════════════════</p>
-<!-- Wireframs -->
+<!-- Wireframes: -->
 <h3>Wireframes</h3>
 Desktop view (1920x1080) <a href="https://bit.ly/3PuiSEw">Click here</a></br>
 Laptop view (1024x768) <a href="https://bit.ly/3AVIWo4">Click here</a></br>
@@ -54,7 +54,7 @@ $ npm run watch-css
 ```
 <p>══════════════════════════════════════════════════════</p>
 <!-- Bootstrap -->
-<h3>Bootstrap</h3>
+<h3>Bootstrap:</h3>
 
 Bootstrap is a cross-platform library or open source toolset for website and web application design. It was decided to use it in the project since it would help to obtain a Responsive and modern design without too many complications.
 
