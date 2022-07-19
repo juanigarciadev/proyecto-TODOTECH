@@ -58,7 +58,7 @@ $ npm run watch-css
 
 Bootstrap is a cross-platform library or open source toolset for website and web application design. It was decided to use it in the project since it would help to obtain a Responsive and modern design without too many complications.
 
-[Go to Bootstrap website](https://getbootstrap.com/)
+<a href="https://getbootstrap.com/">Go to Bootrstrap website</a>
 
 </br>
 To be able to apply Bootstrap it can be done in two ways:
@@ -71,7 +71,7 @@ To be able to apply Bootstrap it can be done in two ways:
 
 "<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>"
 ```
-2- Downloading the CSS and JavaScript files and linking them to the html:
+2- Downloading the CSS and JavaScript files and linking them to the HTML:
 
 ```sh
 "<link rel="stylesheet" href="./css/bootstrap-5.1.3-dist/css/bootstrap.css">"
