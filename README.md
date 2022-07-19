@@ -8,7 +8,7 @@ This is <strong>TODOTECH</strong>, my first project in web development. My idea 
 <p>══════════════════════════════════════════════════════</p>
 
 <!-- Languages and tools -->
-<h3>Languages and tools used:</h3>
+<h3>Languages and tools used:</h3></br>
   <div align="center">	
   	<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
